@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class task3
+public class JavaSort 
 {
     public static void main(String[] args)
     {
